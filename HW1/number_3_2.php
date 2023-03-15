@@ -24,4 +24,4 @@ echo "- $task1 ($time1" . "ч)" . PHP_EOL;
 echo "- $task2 ($time2" . "ч)" . PHP_EOL;
 echo "- $task3 ($time3" . "ч)" . PHP_EOL;
 
-echo "Примерное время выполнения плана =" . $allTime . "ч";
+echo "Примерное время выполнения плана = " . $allTime . "ч";
